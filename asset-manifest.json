@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github-assignment/static/css/main.937a7b9b.css",
+    "main.js": "/github-assignment/static/js/main.bdfa0a29.js",
+    "static/js/787.c90ff68b.chunk.js": "/github-assignment/static/js/787.c90ff68b.chunk.js",
+    "static/media/bin.svg": "/github-assignment/static/media/bin.8d4262baa87accf05fbd69a688d68634.svg",
+    "index.html": "/github-assignment/index.html",
+    "main.937a7b9b.css.map": "/github-assignment/static/css/main.937a7b9b.css.map",
+    "main.bdfa0a29.js.map": "/github-assignment/static/js/main.bdfa0a29.js.map",
+    "787.c90ff68b.chunk.js.map": "/github-assignment/static/js/787.c90ff68b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.937a7b9b.css",
+    "static/js/main.bdfa0a29.js"
+  ]
+}
